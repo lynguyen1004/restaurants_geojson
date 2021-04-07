@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.689013,
+                    10.821457
+                ]
+            },
+            "properties": {
+                "Address": "12 \u0110\u01b0\u1eddng Nguy\u1ec5n V\u0103n Nghi, Ph\u01b0\u1eddng 5",
+                "name": "Qu\u00e1n \u0102n Ng\u00e2n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6889938,
+                    10.7930941
+                ]
+            },
+            "properties": {
+                "Address": "10 \u0110\u1eb7ng T\u1ea5t, T\u00e2n \u0110\u1ecbnh",
+                "name": "Cuc Gach Quan Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6907109,
+                    10.7971747
+                ]
+            },
+            "properties": {
+                "Address": "V\u00f2ng xoay Tr\u1ea7n Kh\u1eafc Ch\u00e2n, Ph\u01b0\u1eddng 7",
+                "name": "Pizza Hut Phan X\u00edch Long"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6961292,
+                    10.8102794
+                ]
+            },
+            "properties": {
+                "Address": "140H \u0110\u01b0\u1eddng Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 12",
+                "name": "\u00danu Qu\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6896249,
+                    10.8041142
+                ]
+            },
+            "properties": {
+                "Address": "2 Nguy\u1ec5n Huy T\u01b0\u1edfng, Ph\u01b0\u1eddng 6",
+                "name": "Bonjour Resto' Nguy\u1ec5n Huy T\u01b0\u1edfng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7006461,
+                    10.8045231
+                ]
+            },
+            "properties": {
+                "Address": "15A Hu\u1ef3nh \u0110\u00ecnh Hai, Ph\u01b0\u1eddng 14",
+                "name": "Ph\u1edf Ph\u00fa H\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6958333,
+                    10.8113889
+                ]
+            },
+            "properties": {
+                "Address": "170A N\u01a1 Trang Long, Ph\u01b0\u1eddng 12",
+                "name": "KFC No Trang Long"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6837213,
+                    10.8027627
+                ]
+            },
+            "properties": {
+                "Address": "122A Phan \u0110\u0103ng L\u01b0u, Ph\u01b0\u1eddng 3",
+                "name": "Phu Nhuan Restaurant Wedding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6963096,
+                    10.7950421
+                ]
+            },
+            "properties": {
+                "Address": "42 \u0110\u01b0\u1eddng L\u00ea V\u0103n Duy\u1ec7t, Ph\u01b0\u1eddng 1",
+                "name": "C\u00f4ng Ty C\u1ed5 Ph\u1ea7n C\u00f4ng Ngh\u1ec7 S\u1ed1 L\u00ea V\u0169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6851127,
+                    10.8036403
+                ]
+            },
+            "properties": {
+                "Address": "111 Phan \u0110\u0103ng L\u01b0u, Ph\u01b0\u1eddng 7",
+                "name": "Ph\u1edf Trang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7010168,
+                    10.8086002
+                ]
+            },
+            "properties": {
+                "Address": "60s Ng\u00f4 \u0110\u1ee9c K\u1ebf, Ph\u01b0\u1eddng 12",
+                "name": "Qu\u00e1n \u0102n 60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6965473,
+                    10.8120045
+                ]
+            },
+            "properties": {
+                "Address": "Vietnam",
+                "name": "Nhi Ho One Member Co.,Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.69725,
+                    10.7997997
+                ]
+            },
+            "properties": {
+                "Address": "41 Ph\u00f3 \u0110\u1ee9c Ch\u00ednh, Ph\u01b0\u1eddng 1",
+                "name": "C\u00f4ng Ty TNHH TM - DV -VT Ho\u00e0ng Ph\u1ed1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6927711,
+                    10.7960983
+                ]
+            },
+            "properties": {
+                "Address": "26M, \u0110\u01b0\u1eddng s\u1ed1 1, (Khu Chung C\u01b0 Mi\u1ebfu N\u1ed5i), V\u0169 Huy T\u1ea5n, Ph\u01b0\u1eddng 3",
+                "name": "M\u00ec X\u1ee9 Qu\u1ea3ng Th\u1ee7y C\u00e1t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6872379,
+                    10.8066359
+                ]
+            },
+            "properties": {
+                "Address": "46 Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 6",
+                "name": "C\u00f4ng Ty Tnhh B\u00e1nh M\u00ec Ba L\u00ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6980917,
+                    10.806715
+                ]
+            },
+            "properties": {
+                "Address": "653 B\u00f9i \u0110\u00ecnh Tu\u00fd",
+                "name": "Nh\u00e0 H\u00e0ng Thi\u00ean Nga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6868757,
+                    10.8041422
+                ]
+            },
+            "properties": {
+                "Address": "1 Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 7",
+                "name": "Stonebucks Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6827856,
+                    10.8022626
+                ]
+            },
+            "properties": {
+                "Address": "474 Phan X\u00edch Long, Ph\u01b0\u1eddng 3",
+                "name": "B\u00ea Thui S\u01a1n Ca 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6999055,
+                    10.8075925
+                ]
+            },
+            "properties": {
+                "Address": "292 B\u00f9i \u0110\u00ecnh Tu\u00fd, Ph\u01b0\u1eddng 24",
+                "name": "H\u1ee7 ti\u1ebfu Sa \u0110\u00e9c QUANG K\u00dd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.69361,
+                    10.800252
+                ]
+            },
+            "properties": {
+                "Address": "63 V\u1ea1n Ki\u1ebfp, Ph\u01b0\u1eddng 3",
+                "name": "Ph\u1edf Ho\u00e0ng Gia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.694249,
+                    10.80855
+                ]
+            },
+            "properties": {
+                "Address": "189 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 7",
+                "name": "C\u01a1m T\u1ea5m Ng\u00f4 Quy\u1ec1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6911399,
+                    10.805625
+                ]
+            },
+            "properties": {
+                "Address": "34 Ho\u00e0ng Hoa Th\u00e1m, Ph\u01b0\u1eddng 7",
+                "name": "Hot & Cold - Tr\u00e0 S\u1eefa & Xi\u00ean Que - Ho\u00e0ng Hoa Th\u00e1m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6960334,
+                    10.8055135
+                ]
+            },
+            "properties": {
+                "Address": "43 Nguy\u1ec5n Huy L\u01b0\u1ee3ng, Ph\u01b0\u1eddng 14",
+                "name": "C\u01a1m T\u1ea5m Thu\u1eadn Ki\u1ec1u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.69591,
+                    10.807451
+                ]
+            },
+            "properties": {
+                "Address": "143 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 14",
+                "name": "Hokage Sushi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.696735,
+                    10.8064878
+                ]
+            },
+            "properties": {
+                "Address": "103 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 14",
+                "name": "Nh\u00e0 H\u00e0ng H\u1ea3i Minh Quang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6967821,
+                    10.8054808
+                ]
+            },
+            "properties": {
+                "Address": "1 Nguy\u1ec5n An Ninh, Ph\u01b0\u1eddng 14",
+                "name": "Ti\u1ec7m C\u01a1m T\u1ea5m T\u00e0i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6976845,
+                    10.8057014
+                ]
+            },
+            "properties": {
+                "Address": "120, L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 15, Qu\u1eadn B\u00ecnh Th\u1ea1nh, Ph\u01b0\u1eddng 14",
+                "name": "Qu\u00e1n M\u00ec Qu\u1ea3ng H\u01b0\u01a1ng Qu\u00ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.695238,
+                    10.81008
+                ]
+            },
+            "properties": {
+                "Address": "130 N\u01a1 Trang Long, Ph\u01b0\u1eddng 14",
+                "name": "Pizza Hut N\u01a1 Trang Long"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6978699,
+                    10.8054483
+                ]
+            },
+            "properties": {
+                "Address": "102 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 14",
+                "name": "B\u00c1NH TI\u00caU \u0110\u1ed6 XANH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.697361,
+                    10.8037722
+                ]
+            },
+            "properties": {
+                "Address": "15 c\u01b0 x\u00e1, \u0110\u01b0\u1eddng Tr\u1ea7n V\u0103n K\u1ef7, Ph\u01b0\u1eddng 14",
+                "name": "B\u1ed9t chi\u00ean B\u00ecnh Th\u1ea1nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6987154,
+                    10.8067131
+                ]
+            },
+            "properties": {
+                "Address": "300 B\u00f9i \u0110\u00ecnh Tu\u00fd, Ph\u01b0\u1eddng 24",
+                "name": "L\u1ea9u b\u00f2 B\u00e0u Sen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6913326,
+                    10.8112244
+                ]
+            },
+            "properties": {
+                "Address": "202 Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 11",
+                "name": "ANKAIZI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6914493,
+                    10.8112975
+                ]
+            },
+            "properties": {
+                "Address": "206 Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 11",
+                "name": "\u1ea8m Th\u1ef1c Chay Thi\u1ec1n Duy\u00ean - Am Thuc Vegetarian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.687826,
+                    10.804275
+                ]
+            },
+            "properties": {
+                "Address": "1 Lam S\u01a1n, Ph\u01b0\u1eddng 5",
+                "name": "L\u00c0NG H\u1ea2I S\u1ea2N SG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6993264,
+                    10.8039302
+                ]
+            },
+            "properties": {
+                "Address": "Ph\u01b0\u1eddng 14",
+                "name": "Luxury Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6892732,
+                    10.8113925
+                ]
+            },
+            "properties": {
+                "Address": "17 Tr\u1ea7n B\u00ecnh Tr\u1ecdng, Ph\u01b0\u1eddng 5",
+                "name": "Qu\u00e1n C\u00e2y G\u00f2n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6999148,
+                    10.8036418
+                ]
+            },
+            "properties": {
+                "Address": "21 Phan B\u1ed9i Ch\u00e2u, Ph\u01b0\u1eddng 14",
+                "name": "Qu\u00e1n B\u00e0 T\u01b0 B\u00e9o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6865587,
+                    10.8050118
+                ]
+            },
+            "properties": {
+                "Address": "72/24 Phan \u0110\u0103ng L\u01b0u, Ph\u01b0\u1eddng 5",
+                "name": "aga steakHouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6965206,
+                    10.7999372
+                ]
+            },
+            "properties": {
+                "Address": "140 \u0110\u01b0\u1eddng L\u00ea V\u0103n Duy\u1ec7t, Ph\u01b0\u1eddng 1",
+                "name": "Khoai t\u00e2y l\u1ed1c xo\u00e1y v\u00e0 B\u00e1nh g\u1ea1o H\u00e0n Qu\u1ed1c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6888549,
+                    10.8153038
+                ]
+            },
+            "properties": {
+                "Address": "449A3 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 5",
+                "name": "Viet Huong Restaurant - Grilled chickens in clay pots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6981371,
+                    10.8003019
+                ]
+            },
+            "properties": {
+                "Address": "13 Nguy\u1ec5n Th\u00e1i H\u1ecdc, Ph\u01b0\u1eddng 1",
+                "name": "B\u00e1nh Cu\u1ed1n Nem N\u01b0\u1edbng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6866121,
+                    10.8031273
+                ]
+            },
+            "properties": {
+                "Address": "1A C\u1ea7m B\u00e1 Th\u01b0\u1edbc, Ph\u01b0\u1eddng 7",
+                "name": "Nh\u00e0 H\u00e0ng H\u1ea3i S\u1ea3n 1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6990603,
+                    10.8010758
+                ]
+            },
+            "properties": {
+                "Address": "318/1 \u0110\u01b0\u1eddng B\u00f9i H\u1eefu Ngh\u0129a, Ph\u01b0\u1eddng 1",
+                "name": "Ba Chieu Chicken Sticky Rice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.701579,
+                    10.807533
+                ]
+            },
+            "properties": {
+                "Address": "86 B\u00f9i \u0110\u00ecnh Tu\u00fd, Ph\u01b0\u1eddng 24",
+                "name": "T\u00e2y ph\u01b0\u01a1ng qu\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7001383,
+                    10.8112209
+                ]
+            },
+            "properties": {
+                "Address": "353 Chu V\u0103n An, Ph\u01b0\u1eddng 15",
+                "name": "D\u1ecbch V\u1ee5 \u0110\u1ed3 C\u00fang X\u00f4i Ch\u00e8 C\u00f4 Hoa tphcm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.701089,
+                    10.8027789
+                ]
+            },
+            "properties": {
+                "Address": "8A Phan B\u1ed9i Ch\u00e2u, Ph\u01b0\u1eddng 14",
+                "name": "Nguy\u00ean Khang Qua\u0301n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6914886,
+                    10.7983059
+                ]
+            },
+            "properties": {
+                "Address": "02 Hoa Th\u1ecb, Ph\u01b0\u1eddng 7",
+                "name": "Dessert House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.693585,
+                    10.798029
+                ]
+            },
+            "properties": {
+                "Address": "238 V\u1ea1n Ki\u1ebfp, Ph\u01b0\u1eddng 3",
+                "name": "Qu\u00e1n B\u1ea1ch Tu\u1ed9c N\u01b0\u1edbng Nha Trang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6886632,
+                    10.7993828
+                ]
+            },
+            "properties": {
+                "Address": "27B Hoa S\u1ee9, Ph\u01b0\u1eddng 7",
+                "name": "C\u00c0 M\u00c8N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6898736,
+                    10.8139694
+                ]
+            },
+            "properties": {
+                "Address": "476 L\u00ea Quang \u0110\u1ecbnh, Ph\u01b0\u1eddng 11",
+                "name": "Old My Tho Noodle"
+            }
+        }
+    ]
+}
